@@ -11,6 +11,10 @@ p {
   margin: 10px;
 }
 
+.vid-ejemplos{
+  width: 600px
+}
+
 .principal {
   display: flex;
   flex-wrap: wrap;
